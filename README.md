@@ -1,2 +1,2 @@
 # algos-java
-All Java algorithms
+Algos in Java
